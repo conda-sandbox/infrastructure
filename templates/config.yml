@@ -2,7 +2,7 @@ conda/governance:
   # [required] community files
   - CODE_OF_CONDUCT.md
 
-conda/infrastructure:
+conda-sandbox/infrastructure:
   # [required] general workflows
   - .github/workflows/cla.yml
   - .github/workflows/update.yml
